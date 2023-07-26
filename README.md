@@ -23,14 +23,14 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 ## 👔 **Soft skills**
 
- - &#9989; Cross-platform development
- - &#9989; Creativity
- - &#9989; Good communication skills
- - &#9989; Data Visualization
- - &#9989; Problem Solving
- - &#9989; Agile Development
- - &#9989; Data Analysis Techniques
- - &#9989; Software Testing
+:white_check_mark: Cross-platform development
+:white_check_mark: Creativity
+:white_check_mark: Good communication skills
+:white_check_mark: Data Visualization
+:white_check_mark: Problem Solving
+:white_check_mark: Agile Development
+:white_check_mark: Data Analysis Techniques
+:white_check_mark: Software Testing
 
 ## 🌐🛠 Tools & Technology
 
