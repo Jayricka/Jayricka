@@ -23,15 +23,14 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 ## 👔 **Soft skills**
 
-✅ Cross-platform development skills<br>
-✅ Creativity<br>
-✅ Good communication skills<br>
-✅ Data Visualization<br>
-✅ Problem Solving<br>
-✅ Agile Development<br>
-✅ Data Analysis Techniques<br>
-✅ Software Testing
-
+[![Cross-platform development](https://img.shields.io/badge/Cross--platform%20development-%E2%9C%85-green)](https://example.com)
+[![Creativity](https://img.shields.io/badge/Creativity-%E2%9C%85-green)](https://example.com)
+[![Good communication skills](https://img.shields.io/badge/Good%20communication%20skills-%E2%9C%85-green)](https://example.com)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%E2%9C%85-green)](https://example.com)
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%E2%9C%85-green)](https://example.com)
+[![Agile Development](https://img.shields.io/badge/Agile%20Development-%E2%9C%85-green)](https://example.com)
+[![Data Analysis Techniques](https://img.shields.io/badge/Data%20Analysis%20Techniques-%E2%9C%85-green)](https://example.com)
+[![Software Testing](https://img.shields.io/badge/Software%20Testing-%E2%9C%85-green)](https://example.com)
 ## 🌐🛠 Tools & Technology
 
 <!-- Table alignment -->
