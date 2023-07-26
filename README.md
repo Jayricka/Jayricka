@@ -13,24 +13,25 @@
 <div class="left-align">
 Hello there! 👋 I'm a passionate developer interested in various technologies and programming languages. Welcome to my GitHub profile!
 <p>
-- 🔭 I’m working on **Projects with R and Tableau**
-- 🌱 I’m also learning **Python Programming**
-- 💬 You can ask me about **data analytics and web development**
-- 📫 How to reach me **jayricka17@gmail.com**
+ - 🔭 I’m working on **Projects with R and Tableau**
+ - 🌱 I’m also learning **Python Programming**
+ - 💬 You can ask me about **data analytics and web development**
+ - 📫 How to reach me **jayricka17@gmail.com**
 <p/>
 
 </div>
 
 ## 👔 **Soft skills**
 
-[![Cross-platform development](https://img.shields.io/badge/Cross--platform%20development-%E2%9C%85-green)](https://example.com)
-[![Creativity](https://img.shields.io/badge/Creativity-%E2%9C%85-green)](https://example.com)
-[![Good communication skills](https://img.shields.io/badge/Good%20communication%20skills-%E2%9C%85-green)](https://example.com)
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%E2%9C%85-green)](https://example.com)
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%E2%9C%85-green)](https://example.com)
-[![Agile Development](https://img.shields.io/badge/Agile%20Development-%E2%9C%85-green)](https://example.com)
-[![Data Analysis Techniques](https://img.shields.io/badge/Data%20Analysis%20Techniques-%E2%9C%85-green)](https://example.com)
-[![Software Testing](https://img.shields.io/badge/Software%20Testing-%E2%9C%85-green)](https://example.com)
+ - &#9989; Cross-platform development
+ - &#9989; Creativity
+ - &#9989; Good communication skills
+ - &#9989; Data Visualization
+ - &#9989; Problem Solving
+ - &#9989; Agile Development
+ - &#9989; Data Analysis Techniques
+ - &#9989; Software Testing
+
 ## 🌐🛠 Tools & Technology
 
 <!-- Table alignment -->
