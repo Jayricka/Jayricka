@@ -1,44 +1,3 @@
-<style>
-/* Custom CSS */
-.header {
-  text-align: center;
-  background-color: #f0f0f0;
-  padding: 10px;
-}
-
-.footer {
-  text-align: center;
-  background-color: #f0f0f0;
-  padding: 5px;
-}
-
-.sidebar {
-  float: right;
-  width: 30%;
-  background-color: #f0f0f0;
-  padding: 10px;
-}
-
-/* Add alignment classes */
-.left-align {
-  text-align: left;
-}
-
-.right-align {
-  text-align: right;
-}
-
-.center-align {
-  text-align: center;
-}
-
-/* Add spacing between headings */
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-</style>
 
 <div class="header">
   <h1 align="center">John Rika Gachanja GitHub Profile</h1>
@@ -54,12 +13,14 @@ h1, h2, h3, h4, h5, h6 {
 
 <div class="left-align">
 Hello there! 👋 I'm a passionate developer interested in various technologies and programming languages. Welcome to my GitHub profile!:
-<p>
+
 - 🔭 I’m working on ** Projects with R and Tableau **
+
 - 🌱 I’m also learning ** Python Programming **
+
 - 💬 You can ask me about ** data analytics and web development **
+
 - 📫 How to reach me ** jayricka17@gmail.com **
-<p/>
 
 </div>
 
@@ -68,12 +29,19 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 soft skills:
 
  ✅ Cross-platform development skills<br>
+ 
  ✅ Creativity<br>
+ 
  ✅ Good communication skills<br>
+ 
  ✅ Data Visualization<br>
+ 
  ✅ Problem Solving<br>
+ 
  ✅ Agile Development<br>
+ 
  ✅ Data Analysis Techniques<br>
+ 
  ✅ Software Testing
 
 ## 🌐🛠 Tools & Technology
