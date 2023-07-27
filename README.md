@@ -28,14 +28,22 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 soft skills:
 
-- ![Cross-platform development skills](https://img.shields.io/badge/-Cross--platform%20development%20skills-brightgreen)
-- ![Creativity](https://img.shields.io/badge/-Creativity-brightgreen)
-- ![Good communication skills](https://img.shields.io/badge/-Good%20communication%20skills-brightgreen)
-- ![Data Visualization (Dataviz)](https://img.shields.io/badge/-Data%20Visualization%20(Dataviz)-brightgreen)
-- ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-brightgreen)
-- ![Agile Development](https://img.shields.io/badge/-Agile%20Development-brightgreen)
-- ![Data Analysis techniques](https://img.shields.io/badge/-Data%20Analysis%20techniques-brightgreen)
-- ![Software testing](https://img.shields.io/badge/-Software%20testing-brightgreen)
+[![Cross-platform development skills](https://img.shields.io/badge/✅-Cross--platform%20development%20skills-brightgreen)](https://shields.io/)
+
+[![Creativity](https://img.shields.io/badge/✅-Creativity-brightgreen)](https://shields.io/)
+
+[![Good communication skills](https://img.shields.io/badge/✅-Good%20communication%20skills-brightgreen)](https://shields.io/)
+
+[![Data Visualization (Dataviz)](https://img.shields.io/badge/✅-Data%20Visualization%20(Dataviz)-brightgreen)](https://shields.io/)
+
+[![Problem Solving](https://img.shields.io/badge/✅-Problem%20Solving-brightgreen)](https://shields.io/)
+
+[![Agile Development](https://img.shields.io/badge/✅-Agile%20Development-brightgreen)](https://shields.io/)
+
+[![Data Analysis techniques](https://img.shields.io/badge/✅-Data%20Analysis%20techniques-brightgreen)](https://shields.io/)
+
+[![Software testing](https://img.shields.io/badge/✅-Software%20testing-brightgreen)](https://shields.io/)
+
 
 ## 🌐🛠 Tools & Technology
 
