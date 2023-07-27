@@ -28,21 +28,22 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 soft skills:
 
-[![Cross-platform development skills](https://img.shields.io/badge/-Cross--platform%20development%20skills-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Cross-platform development skills](https://img.shields.io/badge/-%20✅%20Cross--platform%20development%20skills-brightgreen)](https://shields.io/)
 
-[![Creativity](https://img.shields.io/badge/-Creativity-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Creativity](https://img.shields.io/badge/-%20✅%20Creativity-brightgreen)](https://shields.io/)
 
-[![Good communication skills](https://img.shields.io/badge/-Good%20communication%20skills-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Good communication skills](https://img.shields.io/badge/-%20✅%20Good%20communication%20skills-brightgreen)](https://shields.io/)
 
-[![Data Visualization (Dataviz)](https://img.shields.io/badge/-Data%20Visualization%20(Dataviz)-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Data Visualization (Dataviz)](https://img.shields.io/badge/-%20✅%20Data%20Visualization%20(Dataviz)-brightgreen)](https://shields.io/)
 
-[![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Problem Solving](https://img.shields.io/badge/-%20✅%20Problem%20Solving-brightgreen)](https://shields.io/)
 
-[![Agile Development](https://img.shields.io/badge/-Agile%20Development-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Agile Development](https://img.shields.io/badge/-%20✅%20Agile%20Development-brightgreen)](https://shields.io/)
 
-[![Data Analysis techniques](https://img.shields.io/badge/-Data%20Analysis%20techniques-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Data Analysis techniques](https://img.shields.io/badge/-%20✅%20Data%20Analysis%20techniques-brightgreen)](https://shields.io/)
 
-[![Software testing](https://img.shields.io/badge/-Software%20testing-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://shields.io/)
+[![Software testing](https://img.shields.io/badge/-%20✅%20Software%20testing-brightgreen)](https://shields.io/)
+
 
 ## 🌐🛠 Tools & Technology
 
