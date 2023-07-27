@@ -32,30 +32,37 @@ soft skills:
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Cross-platform development skills</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Creativity</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Good communication skills</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Data Visualization (Dataviz)</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Problem Solving</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Agile Development</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Data Analysis techniques</span>
 </div>
+
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/-%20✅-brightgreen" alt="Checkmark">
     <span>Software testing</span>
