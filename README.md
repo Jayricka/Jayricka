@@ -1,7 +1,7 @@
 
 <div class="header">
   <h1 align="center">John Rika Gachanja GitHub Profile</h1>
-  ** <p align="center"><em>Software_Engineer|Certified-Data-Analyst</em></p> **
+  <p align="center"><em>Software_Engineer|Certified-Data-Analyst</em></p>
 </div>
 
 <div class="sidebar">
@@ -28,21 +28,22 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 soft skills:
 
- ✅ Cross-platform development skills<br>
- 
- ✅ Creativity<br>
- 
- ✅ Good communication skills<br>
- 
- ✅ Data Visualization<br>
- 
- ✅ Problem Solving<br>
- 
- ✅ Agile Development<br>
- 
- ✅ Data Analysis Techniques<br>
- 
- ✅ Software Testing
+- &#x2705; Cross-platform development skills
+
+- &#x2705; Creativity
+
+- &#x2705; Good communication skills
+
+- &#x2705; Data Visualization
+
+- &#x2705; Problem Solving
+
+- &#x2705; Agile Development
+
+- &#x2705; Data Analysis techniques
+
+- &#x2705; software testing
+
 
 ## 🌐🛠 Tools & Technology
 
