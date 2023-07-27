@@ -28,21 +28,21 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 soft skills:
 
-white_check_mark Cross-platform development skills
+✅ Cross-platform development skills
 
-white_check_mark Creativity
+✅ Creativity
 
-white_check_mark Good communication skills
+✅ Good communication skills
 
-white_check_mark Data Visualization
+✅ Data Visualization(Dataviz)
 
-white_check_mark Problem Solving
+✅ Problem Solving
 
-white_check_mark Agile Development
+✅ Agile Development
 
-white_check_mark Data Analysis techniques
+✅ Data Analysis techniques
 
-white_check_mark software testing
+✅ software testing
 
 ## 🌐🛠 Tools & Technology
 
