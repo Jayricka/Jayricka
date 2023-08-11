@@ -13,13 +13,13 @@
 <div class="left-align">
 Hello there! 👋 I'm a passionate developer interested in various technologies and programming languages. Welcome to my GitHub profile!:
 
-- 🔭 I’m working on ** Projects with R and Tableau **
+- 🔭 I’m working on Projects with R and Tableau
 
-- 🌱 I’m also learning ** Python Programming **
+- 🌱 I’m also learning Python Programming
 
-- 💬 You can ask me about ** data analytics and web development **
+- 💬 You can ask me about data analytics and web development
 
-- 📫 How to reach me ** jayricka17@gmail.com **
+- 📫 How to reach me jayricka17@gmail.com
 
 </div>
 
