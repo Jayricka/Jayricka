@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <div class="header">
   <h1 align="center">John Rika Gachanja GitHub Profile</h1>
   <p align="center"><em>Software_Engineer|Certified-Data-Analyst</em></p>
