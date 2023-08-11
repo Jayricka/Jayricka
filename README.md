@@ -1,6 +1,6 @@
 <div class="header">
-  <h1 align="center">John Rika Gachanja GitHub Profile</h1>
-  <p align="center"><em>Software_Engineer|Certified-Data-Analyst</em></p>
+  <h1 align="center">John Rika Gachanja</h1>
+  <p align="center"><em>Software_Engineer | Cert.Data_Analyst</em></p>
 </div>
 
 <div class="sidebar">
