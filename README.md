@@ -6,8 +6,7 @@
 <div class="sidebar">
   <h2>Fun Fact</h2>
   ⚡ "Data Power Unlocked! Turns boring numbers into Compelling stories with dynamic visualizations. Empower your business with valuable analytics, uncover hidden goldmines, and conquer with data-driven decisions. 🚀💼📊🏆"! 
-<iframe src="https://giphy.com/embed/f3KwliaH4MLtli8z7D" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pc-hacker-desing-f3KwliaH4MLtli8z7D">via GIPHY</a></p>
-
+<img src="images/image.gif" alt="Fun GIF">
 ## About Me
 
 <div class="left-align">
