@@ -6,7 +6,7 @@
 <div class="sidebar">
   <h2>Fun Fact</h2>
   ⚡ "Data Power Unlocked! Turns boring numbers into Compelling stories with dynamic visualizations. Empower your business with valuable analytics, uncover hidden goldmines, and conquer with data-driven decisions. 🚀💼📊🏆"! 
-<img src="images/image.gif" alt="Fun GIF">
+<img src="images/img.gif" alt="Fun GIF">
 </div>
 
 ## About Me
