@@ -1,5 +1,5 @@
 <div class="header">
-  <h1 align="center">John Rika Gachanja</h1>
+  <h1 align="center">Hi 👋, I'm John Rika Gachanja</h1>
   <p align="center"><em>Software_Engineer | Cert.Data_Analyst</em></p>
 </div>
 
